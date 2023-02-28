@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ex2</string>
+    <string name="login">connexion</string>
+    <string name="username">nom d\'utilisateur</string>
+    <string name="password">mot de passe</string>
+    <string name="language">langue</string>
+    <string name="welcome">accueillir</string>
+</resources>
